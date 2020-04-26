@@ -17,8 +17,11 @@ public class Cataloog2 {
     public static void main(String[] args) {
         
         
-        
+        sds();
         System.out.print("Quan dep traia");
+    }
+    static void sds(){
+        System.out.print("Quan dep traisdsdsa \n");
     }
     
 }
