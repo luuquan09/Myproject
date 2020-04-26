@@ -22,6 +22,12 @@ public class Cataloog2 {
     }
     static void sds(){
         System.out.print("Quan dep traisdsdsa \n");
+        sds2();
     }
+    
+        static void sds2(){
+        System.out.print("Quan dep traisdsdsa \n");
+    }
+    
     
 }
